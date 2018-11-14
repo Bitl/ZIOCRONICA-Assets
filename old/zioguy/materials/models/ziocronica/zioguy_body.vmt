@@ -1,0 +1,9 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/ziocronica/zioguy_body"
+	"$bumpmap" "models/ziocronica/normal"
+	"$phong" "1"
+	"$phongexponent" "15"
+	"$phongboost" "1"
+	"$phongfresnelranges"	"[2 1 5]"
+}

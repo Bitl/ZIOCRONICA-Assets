@@ -1,0 +1,6 @@
+model models/characters/zioguy
+scale 1
+# load up our anim smd files
+scene zioguy.smd
+scene idle1.smd
+scene fire.smd

@@ -1,0 +1,3 @@
+pistol: semi-auto, low magazine
+ziogun: multiple fire modes: starts out as automatic, shotgun and automatic shotgun modes are upgrades.
+rocket launcher: semi-auto, rockets, maybe add a full-auto upgrade
